@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getDate function Fake orders 1`] = `
+<div
+  className="Order"
+>
+  <div
+    className="Order-header"
+  >
+    <span
+      className="Order-shop"
+    />
+    <span>
+      NaN undefined, undefined, NaN год
+    </span>
+  </div>
+  <div
+    className="Order-items"
+  />
+</div>
+`;
